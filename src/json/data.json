@@ -1,0 +1,51 @@
+[
+    {
+        "image": "1.jpeg",
+        "title": "Binocolo",
+        "tag": "Mom, Dad, 90s, polaroid",
+        "year": "2020",
+        "colors": "red, purple, blue, green"
+    },
+    {
+        "image": "2.jpeg",
+        "title": "Cicala",
+        "tag": "tag1, tag3",    
+        "year": "2021",
+        "colors": "red, blue, green"
+    },
+    {
+        "image": "3.jpeg",
+        "title": "Dinosauro",
+        "tag": "tag4, tag2",
+        "year": "2025",
+        "colors": "red, green"
+    },
+    {
+        "image": "4.jpeg",
+        "title": "Elettrodomestico",
+        "tag": "tag2, tag4",
+        "year": "2010",
+        "colors": "pink"
+    },
+    {
+        "image": "0.jpeg",
+        "title": "Anna",
+        "tag": "tag1",
+        "year": "2018",
+        "colors": "red"
+    },
+    {
+        "image": "5.jpeg",
+        "title": "Annb",
+        "tag": "tag2",
+        "year": "2019",
+        "colors": "purple"
+    },
+    {
+        "image": "7.jpeg",
+        "title": "Zorro",
+        "tag": "tag7, Mom",
+        "year": "2019",
+        "colors": "violet"
+    }
+]
